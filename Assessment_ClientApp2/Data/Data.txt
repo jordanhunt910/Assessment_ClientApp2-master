@@ -1,0 +1,5 @@
+﻿Sid,145,happy,giant,true
+Lucy,125,bored,dragon,true
+Bill,934,sad,orc,true
+Steven,625,angry,werewolf,true
+Georgina,25,bored,yeti,true
